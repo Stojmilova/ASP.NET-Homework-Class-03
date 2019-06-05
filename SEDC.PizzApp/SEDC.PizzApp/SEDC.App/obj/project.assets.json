@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stojmilova\\Desktop\\sedc7-08-aspnetmvc\\g5\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\SEDC.App.csproj",
+      "projectUniqueName": "C:\\Users\\Stojmilova\\Desktop\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\SEDC.App.csproj",
       "projectName": "SEDC.App",
-      "projectPath": "C:\\Users\\Stojmilova\\Desktop\\sedc7-08-aspnetmvc\\g5\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\SEDC.App.csproj",
+      "projectPath": "C:\\Users\\Stojmilova\\Desktop\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\SEDC.App.csproj",
       "packagesPath": "C:\\Users\\Stojmilova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stojmilova\\Desktop\\sedc7-08-aspnetmvc\\g5\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\obj\\",
+      "outputPath": "C:\\Users\\Stojmilova\\Desktop\\Homework - Class 3\\SEDC.PizzApp\\SEDC.PizzApp\\SEDC.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
