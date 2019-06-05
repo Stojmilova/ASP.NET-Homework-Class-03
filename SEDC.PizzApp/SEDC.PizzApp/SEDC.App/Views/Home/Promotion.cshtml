@@ -1,0 +1,28 @@
+﻿@model List<SEDC.App.Models.DomainModels.Pizza>;  
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Promotion</title>
+</head>
+<body>
+    <h1>@ViewBag.Header</h1>
+   
+    <h3>***List of all the pizzas that are on promotion:***</h3>
+    <ul>
+        @foreach (var pizza in @Model)
+        {            
+            if (pizza.Price < 13.75)
+            {
+                <li>Name: @pizza.Name => Price: @pizza.Price => Size: @pizza.Size </li>
+            }
+        }
+    </ul>
+
+</body>
+</html>
